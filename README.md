@@ -12,7 +12,7 @@ This machine learning model predicts dementia risk by analyzing 1,830 patient re
 
 **TotalBrainHealthDataset.csv**: Contains 1,830 patient records with 19 variables including cognitive test scores (EF, PS, Global), demographics (age, gender), cardiovascular risk factors (diabetes, hypertension, hypercholesterolemia), and brain imaging markers.
 
-**dementia_prediction_project.ipynb**
+**dementia_prediction_project.ipynb**  
 Main Jupyter notebook containing complete project:
 - Data exploration and visualization showing patterns in cognitive scores and health conditions
 - Implementation of custom decision tree classifier using if-else logic
