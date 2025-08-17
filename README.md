@@ -9,6 +9,7 @@ This machine learning model predicts dementia risk by analyzing 1,830 patient re
 - Ethical Considerations: Addresses privacy concerns and psychological impact of predictive healthcare models
 
 **Project Structure:**
+
 TotalBrainHealthDataset.csv: Contains 1,830 patient records with 19 variables including cognitive test scores (EF, PS, Global), demographics (age, gender), cardiovascular risk factors (diabetes, hypertension, hypercholesterolemia), and brain imaging markers.
 
 dementia_prediction_project.ipynb: Main Jupyter notebook containing the complete project
