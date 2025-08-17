@@ -4,7 +4,7 @@ This machine learning model predicts dementia status by analyzing 1,830 patient 
 ## Features:
 - **Comprehensive Data Analysis**: Explores relationships between cognitive scores, age, and cardiovascular conditions through statistical analysis and visualizations
 - **Custom Decision Tree Model**: Implements hierarchical decision-making algorithm that evaluates cognitive impairment levels before considering age and health risk factors
-- **Performance Metrics**: Achieves 70% accuracy and 78.6% True Positive Rate, successfully identifying 8 out of 10 actual dementia cases
+- **Performance Metrics**: Achieves 70% accuracy and 78.6% True Positive Rate, successfully identifying approximately 8 out of 10 actual dementia cases
 - **Model Comparison**: Demonstrates superiority over k-Nearest Neighbors approach through comparative analysis focusing on clinical utility
 - **Ethical Considerations**: Addresses privacy concerns and psychological impact of predictive healthcare models
 
